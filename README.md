@@ -9,7 +9,7 @@
 
 <p align="center"><img align="center" src ="https://github-readme-stats.vercel.app/api?username=bughht&count_private=true&show_icons=true&theme=tokyonight" width="400px"><img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=bughht&theme=tokyonight" width="400px"></p>
 
-<p align="center"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bughht&layout=compact&theme=tokyonight&hide=C,assembly,CMake,Shell,Makefile,G-code,jupyter%20notebook"></p>
+<p align="center"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bughht&theme=tokyonight&hide=C,assembly,CMake,Shell,Makefile,G-code"></p>
 
 ![](https://raw.githubusercontent.com/bughht/bughht/main/assets/github-contribution-grid-snake.svg)
 
