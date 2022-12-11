@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <a href="https://bughht.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I'm Harry</h1>
-<h3 align="center">I'm a senior undergraduate student. Persue designing interesting stuff.</h3>
+<h3 align="center">I'm a senior undergraduate student, interested in designing & producing fascinating stuff.</h3>
 
 + 🔭 I’m currently working on MRI Imaging.
 + 🔬 I’m interested in Brain Computer Interface, Neural Imaging, VR/AR application, wearable devices.
@@ -74,8 +74,8 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
   </a> -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="30" height="30">
+  <a href="https://unity.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="30" height="30">
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/>
