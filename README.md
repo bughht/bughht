@@ -90,11 +90,12 @@
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="30" height="30"/>
   </a>
-  
-
 </div>
+
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=bughht&theme=onedark&row=1&rank=-C,-B"></p>
 
 <p align="center"><img align="left" src ="https://github-readme-stats.vercel.app/api?username=bughht&count_private=true&show_icons=true&theme=tokyonight" width="400px"><img align="right" src = "https://github-readme-streak-stats.herokuapp.com/?user=bughht&theme=tokyonight" width="400px"></p>
 
 <p align="center"><img align="left" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bughht&layout=compact&theme=tokyonight&hide=C,assembly,CMake,Shell,Makefile,G-code"><img src="https://raw.githubusercontent.com/bughht/bughht/main/assets/github-contribution-grid-snake.svg" width="510" align="right"></p>
+
 
