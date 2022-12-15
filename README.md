@@ -6,6 +6,7 @@
 + 🔭 I’m currently working on MRI Imaging.
 + 🔬 I’m interested in Brain Computer Interface, Neural Imaging, VR/AR application, wearable devices.
 + 📫 Mail to me: harryhht@shu.edu.cn
++ ⌨️ About me: [here](https://bughht.github.io/aboutme/)
 + 🛠️ Languages and Tools
 
 <div>
