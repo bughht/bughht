@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <a href="https://bughht.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I'm Harry</h1>
-<h3 align="center">I'm a senior undergraduate student, interested in designing & producing fascinating stuff.</h3>
+<h3 align="center">I'm currently a senior undergraduate student major in Biomedical Engineering. I'm interested in designing & producing fascinating stuff.</h3>
 
 + 🔭 I’m currently working on MRI Imaging.
 + 🔬 I’m interested in Brain Computer Interface, Neural Imaging, VR/AR application, wearable devices.
@@ -25,18 +25,15 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="30" height="30"/>
   </a>
-  
   <a href="https://julialang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="30" height="30"/>
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="30" height="30"/>
   </a>
-  
   <a href="https://www.raspberry.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="30" height="30"/>
   </a>
-  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
   </a>
@@ -52,29 +49,9 @@
   <a href="https://www.opengl.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" alt="opengl" width="30" height="30"/>
   </a>
-
   <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/aayushchugh/vscode-material-icon-theme/main/icons/cuda.svg" alt="cuda" width="30" height="30"/>
   </a>
-<!--   <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="30" height="30"/>
-  </a> -->
-<!--   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" width="30" height="30"/>
-  </a> -->
-  
-<!--   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="30" height="30"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
-  </a> -->
   <a href="https://unity.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="30" height="30">
   </a>
@@ -84,7 +61,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
   </a>
-    
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="30" height="30"/>
   </a>
