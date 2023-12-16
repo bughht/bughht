@@ -3,9 +3,9 @@
 <h1 align="center">Hi <a href="https://bughht.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I'm Harry</h1>
 <h3 align="center">I'm currently a senior undergraduate student major in Biomedical Engineering. I'm interested in designing & producing fascinating stuff.</h3>
 
-+ 🔭 I’m currently working on Cardiac MR Imaging.
-+ 🔬 I’m interested in Brain Computer Interface, Neural Imaging, VR/AR application, wearable devices.
-+ 📫 Mail to me: harryhht@shu.edu.cn
++ 🔭 I’m currently working on MRI sequence design, K-space undersampling.
++ 🔬 I’m interested in Brain Computer Interface, Neural Imaging, VR/AR application.
++ 📫 Mail to me: doge@shanghaitech.edu.cn
 + ⌨️ About me: [here](https://bughht.github.io/aboutme/)
 + 🛠️ Languages and Tools
 
