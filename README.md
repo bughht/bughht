@@ -1,10 +1,10 @@
 
 
 <h1 align="center">Hi <a href="https://bughht.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I'm Harry</h1>
-<h3 align="center">I'm currently a master's student majoring in Biomedical Engineering. I'm interested in designing & producing fascinating stuff.</h3>
+<h3 align="center">I'm currently a master's student majoring in Biomedical Engineering (ShanghaiTech University), now working at Athinoula A. Martinos Center for Biomedical Imaging, Harvard Medical School & Massachusetts General Hospital. I'm interested in designing & producing fascinating stuff.</h3>
 
 + 🔭 I’m currently working on accelerated MRI pulse sequence design, K-space undersampling, active B0 shimming.
-+ 📫 Mail to me: doge@shanghaitech.edu.cn
++ 📫 Mail to me: honght@shanghaitech.edu.cn / hhong@mgh.harvard.edu
 + ⌨️ About me: [here](https://bughht.github.io/aboutme/)
 + 🛠️ Languages and Tools
 
