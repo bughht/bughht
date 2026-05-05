@@ -8,7 +8,7 @@
 + ⌨️ About me: [here](https://bughht.github.io/aboutme/)
 + 🛠️ Languages and Tools
 
-<div>
+<!-- <div>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
   </a>
@@ -66,7 +66,7 @@
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="30" height="30"/>
   </a>
-</div>
+</div> -->
 
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=bughht&theme=onedark&row=1&rank=-C,-B"></p>
 
